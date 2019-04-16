@@ -3,10 +3,7 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 
 
 bot = ChatBot(
-    "My ChatterBot",
-    logic_adapters=[
-        'chatterbot.logic.BestMatch'
-    ]
+    "My ChatterBot"
 )
 
 trainer = ChatterBotCorpusTrainer(bot)

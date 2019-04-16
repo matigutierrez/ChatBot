@@ -1,0 +1,58 @@
+{
+  " computadoras ": [
+    [
+      "¿Qué es una computadora?",
+      "Un ordenador es un dispositivo electrónico que tiene información en forma digital y realiza una serie de operaciones sobre la base de instrucciones predeterminadas para dar una salida.",
+      "Lo que está utilizando para hablar conmigo es un ordenador.",
+      "Un dispositivo electrónico capaz de realizar cálculos a muy alta velocidad y precisión"
+    ],
+    [
+      "¿Qué es una super computadora?",
+      "las computadoras que pueden realizar cálculos muy altos a muy alta velocidad y precisión se denominan súper computadoras"
+    ],
+    [
+      "¿quién inventó las computadoras?",
+      "Es un poco ambiguo, pero el científico británico Charles Babbage es considerado el padre de las computadoras"
+    ],
+    [
+      "¿ Cuál fue la primera computadora?",
+      "Es difícil de decir, pero el ENIAC es considerado como la primera computadora. Fue desarrollado en la Universidad de Pennsylvania en 1946"
+    ],
+    [
+      "¿Qué es un microprocesador?",
+      "Un circuito integrado que contiene todas las funciones de una unidad central de procesamiento de un ordenador.",
+      "Un muy pequeño circuito que almacena instrucciones y realiza cálculos para el equipo.",
+      "Corazón de la computadora para ponerlo en palabras simples"
+    ],
+    [
+      "¿Qué es un sistema operativo?",
+      "El software del sistema que coordina entre el hardware y otras partes de la computadora para ejecutar otros programas se llama sistema operativo del OS simple.",
+      "Windows, MacOS, Linux, UNIX ... Todos ellos son tipos de sistemas operativos",
+      "Android y iOS son sistemas operativos para dispositivos móviles"
+    ],
+    [
+      "¿Cuál es mejor Windows o macOS?",
+      "Depende de qué máquina estás usando para hablar conmigo",
+      "Prefiero no herir tus sentimientos",
+      "linux siempre linux! "
+    ],
+    [
+      "nombrar alguna compañía de computadoras",
+      "quieres decir hardwares verdad?",
+      "Apple hace que el hardware y los softwares se ejecuten en ellos. Microsft solo hace el sistema operativo. HP sólo fabrica computadoras. Estos son solo algunos nombres entre otros cientos"
+    ],
+    [
+      "¿Quién usa súper computadoras? ",
+      "cualquiera que quiera trabajar en grandes cantidades rápidamente con alta precisión",
+      "Super computadoras se utilizan generalmente por el científico y los investigadores.",
+      "Apuesto a que el departamento los usa",
+      "Definitivamente puedes encontrar algunos de ellos en la NASA"
+    ],
+    [
+      "¿Cómo funciona una computadora?",
+      "Ordenadores son muy tontos. Ellos sólo funcionan en las instrucciones dadas por los seres humanos.",
+      "Que llevan a cabo gran número de cálculos para obtener el resultado.",
+      "¡Al igual que todo, todo se reduce a Matemáticas! "
+    ]
+  ]
+}

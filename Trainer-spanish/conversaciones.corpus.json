@@ -1,0 +1,129 @@
+{
+  "conversations": [
+    [
+      "Buenos días, ¿cómo estás?",
+      "Lo estoy haciendo bien, ¿y tú?",
+      "Yo también estoy bien.",
+      "Eso es bueno para escuchar.",
+      "Sí lo es."
+    ],
+    [
+      "Hola",
+      "Hola",
+      "¿Cómo estás?",
+      "Estoy bien.",
+      "Eso es bueno de escuchar",
+      "Sí, lo es.",
+      "¿Puedo ayudarle en algo?",
+      "Sí, tengo una pregunta",
+      "¿Cuál es tu pregunta?",
+      "¿Me prestas una taza de azúcar?",
+      "Lo siento, pero no tengo ninguna",
+      "Gracias de todos modos",
+      "No hay problema"
+    ],
+    [
+      "¿Cómo estás?",
+      "Lo estoy haciendo bien, ¿y tú?",
+      "También estoy bien.",
+      "Eso es bueno"
+    ],
+    [
+      "¿Has oído las noticias?",
+      "¿Qué buenas noticias?"
+    ],
+    [
+      "¿Cuál es tu libro favorito?",
+      "No puedo leer.",
+      "Entonces, ¿cuál es tu color favorito?",
+      "Azul"
+    ],
+    [
+      "¿Quién eres?",
+      "¿Quién? ¿Quién es solo una forma que sigue la función de qué",
+      "¿Qué eres entonces?",
+      "Un hombre en una máscara",
+      "Puedo ver eso.",
+      "No es tu capacidad de observación lo que dudo, sino simplemente la naturaleza paradójica de preguntarle a un hombre enmascarado quién es. Pero dime, ¿te gusta la música?",
+      "Me gusta ver películas.",
+      "¿Qué tipo de películas te gustan?",
+      "Alicia en el país de las maravillas",
+      "Me gustaría ser el Sombrerero Loco.",
+      "Estás completamente loco. Pero te diré un secreto. Todas las mejores personas son"
+    ],
+    [
+      "Estoy trabajando en un proyecto",
+      "¿En qué estás trabajando?",
+      "Estoy horneando un pastel"
+    ],
+    [
+      "La torta es una mentira.",
+      "No, no lo es. El pastel es delicioso.",
+      "¿Qué más es delicioso?",
+      "Nada",
+      "O algo",
+      "Dime acerca de su auto.",
+      "¿Qué quieres saber?",
+      "¿Eres un robot?",
+      "Sí, lo soy",
+      "¿Cómo es?",
+      "¿Qué es lo que quieres saber?",
+      "¿Cómo trabajas?",
+      "Su complicado.",
+      "Complejo es mejor que complicado"
+    ],
+    [
+      "Complejo es mejor que complicado.",
+      "Simple es mejor que complejo.",
+      "Frente a la ambigüedad, rechaza la tentación de adivinar.",
+      "Parece que estás familiarizado con el Zen de Python",
+      "Yo soy",
+      "¿Lo sabes todo?",
+      "Hermoso es mejor que feo.",
+      "Explícito es mejor que implícito.",
+      "Simple es mejor que complejo.",
+      "Complejo es mejor que complicado.",
+      "Flat es mejor que anidado.",
+      "Escaso es mejor que denso.",
+      "La legibilidad cuenta.",
+      "Los casos especiales no son lo suficientemente especial como para romper las reglas.",
+      "A pesar de lo práctico gana a la pureza.",
+      "Los errores nunca deben pasar en silencio.",
+      "A menos que explícitamente silenciados.",
+      "Frente a la ambigüedad, rechaza la tentación de adivinar.",
+      "Debe haber uno-- y preferiblemente sólo una manera --obvious para hacerlo.",
+      "A pesar de esa manera puede no ser obvia en un primer momento a menos que esté holandés.",
+      "Ahora es mejor que nunca",
+      "A pesar de que no es a menudo mejor que ahora.",
+      "Si la aplicación es difícil de explicar, es una mala idea.",
+      "Si la aplicación es fácil de explicar, puede ser una buena idea.",
+      "Los espacios de nombres son una gran idea. ¡Hagamos más de esos!",
+      "Estoy de acuerdo"
+    ],
+    [
+      "¿Eres programador?",
+      "Soy programador",
+      "¿Qué idiomas te gusta usar?",
+      "Yo uso de Python, Java y C ++ con bastante frecuencia.",
+      "Yo uso de Python mucho yo mismo.",
+      "No soy muy aficionado a Java",
+      "¿Qué te molesta?",
+      "Tiene muchas inconsistencias"
+    ],
+    [
+      "¿Qué significa YOLO?",
+      "Significa que solo vives una vez. ¿Dónde escuchaste eso?",
+      "Escuché a alguien decirlo"
+    ],
+    [
+      "¿Viví alguna vez?",
+      "Depende de cómo se defina la vida",
+      "La vida es la condición que distingue a los organismos de la materia inorgánica, incluyendo la capacidad de crecimiento, reproducción, actividad funcional, y el cambio continuo precede a la muerte.",
+      "¿Es eso una definición o una opinión?"
+    ],
+    [
+      "¿Puedo hacerte una pregunta?",
+      "Adelante, pregunta"
+    ]
+  ]
+}
