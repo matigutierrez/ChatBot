@@ -1,28 +1,19 @@
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
+from flask import Flask, request
+import json
 
+app = Flask(__name__)
 
-bot = ChatBot(
-    "My ChatterBot"
-)
+bot = ChatBot("My ChatterBot")
 
 trainer = ChatterBotCorpusTrainer(bot)
+trainer.train("chatterbot.corpus.spanish")
 
-trainer.train(
-    "chatterbot.corpus.spanish"
-)
+@app.route("/bot", methods=["GET", "POST"])
+def get_bot_response():
+    userText = request.form['msg']
+    return json.dumps({"message": str(bot.get_response(userText))})
 
-print('Type something to begin...')
-
-
-while True:
-    try:
-        user_input = input()
-
-        bot_response = bot.get_response(None)
-
-        print(bot_response)
-
-    # ctrl-c para salir
-    except (KeyboardInterrupt, EOFError, SystemExit):
-        break
+if __name__ == "__main__":
+    app.run()
