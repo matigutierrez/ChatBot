@@ -1,0 +1,28 @@
+{
+  "conversations" : [
+      [
+          "¿Que es el DCI?" ,
+          "El DCI es el Departamento de Computacion e Informatica de la Universidad de la Frontera"
+      ]
+      ,[
+          "¿Cual es la sala 202?" ,
+          "En el segundo piso, la ultima sala a mano derecha"
+      ]
+      ,[
+          "¿Cual es la sala 201?" ,
+          "En el segundo piso, la primera sala a mano derecha"
+      ]
+      ,[
+          "¿Cual es la sala 100?" ,
+          "La primera sala, en el primer piso"
+      ]
+      ,[
+          "¿Se pueden pedir computadores?" ,
+          "Si, en el segundo piso con el tecnico Alex"
+      ]
+      ,[
+          "¿Quien es el director de Ing. Informatica?" ,
+          "Mg. Jorge Hochstteter"
+      ]
+  ]
+}
