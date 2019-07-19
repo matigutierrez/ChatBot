@@ -2,14 +2,12 @@ from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 from flask import Flask, request
 import json
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
-bot = ChatBot(
-    "My ChatterBot",
-    logic_adapters=[
-        'chatterbot.logic.BestMatch'
-    ])
+bot = ChatBot("My ChatterBot")
 
 trainer = ChatterBotCorpusTrainer(bot)
 
@@ -25,7 +23,7 @@ trainer.train(
 @app.route("/bot", methods=["POST"])
 def get_bot_response():
     userText = request.form['msg']
-    return json.dumps({"message": str(bot.get_response(userText))})
+    return json.dumps({"author": "bot", "message": str(bot.get_response(userText))})
 
 if __name__ == "__main__":
     app.run()
